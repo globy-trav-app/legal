@@ -3,8 +3,6 @@ layout: page
 title: Terms of Use
 ---
 
-_Last updated: {{ "now" | date: "%B %d, %Y" }}_
-
 Welcome to **Globy**. By using the app you agree to these Terms.
 
 ## License
