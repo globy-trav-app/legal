@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: null
 title: Terms of Use
+permalink: /terms/
 ---
 
 Welcome to **Globy**. By using the app you agree to these Terms.
