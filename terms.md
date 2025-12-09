@@ -14,7 +14,7 @@ The App, including all trademarks, copyrights, database rights, and other intell
 We may improve or change the App over time and, if needed, charge for certain features or services. We will always make it clear what you are paying for before any charge is applied.
 
 ## 3. Privacy
-Your use of the App is also governed by our **[Privacy Policy](/privacy/)**, which explains what data may be processed and how. Please review it.
+Your use of the App is also governed by our **[Privacy Policy](/privacy-policy/)**, which explains what data may be processed and how. Please review it.
 
 ## 4. Third-Party Services
 The App may rely on third-party services (e.g., Apple/StoreKit for purchases, Adapty for subscription infrastructure, map and geocoding providers). These services are governed by their own terms and privacy policies, and they may receive or process data necessary to provide their functionality.
